@@ -1,6 +1,5 @@
-import csv #This package lets us save data to a csv file
-from selenium import webdriver #The Selenium package we'll need
-import time #This package lets us pause execution for a bit
+import csv
+from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 
